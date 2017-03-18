@@ -20,8 +20,8 @@
   "private": false,
   "license": "MIT",
   "dependencies": {
-    "lodash": "^3.6.0",
-    "mongoose": "~4.7.1"
+    "lodash": "^4.17.4",
+    "mongoose": "^4.9.0"
   },
   "devDependencies": {
     "jasmine-node": "^2.0.0"
